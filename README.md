@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Ứng dụng quản lý công việc ( To Do List )
+**React JS + Redux + LocalStorage**
+Link Host: https://vangiau-todolist.vercel.app/
+![image](https://user-images.githubusercontent.com/75024999/134197504-b933e21a-88b9-4588-b00b-997353a90f61.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+### `---------------------------------------------------------------------------`
 ## Available Scripts
 
 In the project directory, you can run:
